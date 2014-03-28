@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "jpstock-crawler.gemspec",
     "lib/jpstock-crawler.rb",
     "spec/jpstock-crawler_spec.rb",
     "spec/spec_helper.rb"
