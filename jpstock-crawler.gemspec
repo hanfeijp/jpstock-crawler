@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Tadashi Inoue"]
   s.date = "2014-03-28"
-  s.description = "TODO: longer description of your gem"
+  s.description = "\u{682a}\u{4fa1}\u{60c5}\u{5831}\u{3092}\u{53d6}\u{5f97}\u{3057}\u{3066}\u{3042}\u{308c}\u{3053}\u{308c}\u{3059}\u{308b}\u{30e9}\u{30a4}\u{30d6}\u{30e9}\u{30ea}"
   s.email = "kenkiti@gmail.com"
   s.extra_rdoc_files = [
     "LICENSE.txt",
@@ -34,7 +34,7 @@ Gem::Specification.new do |s|
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = "1.8.23"
-  s.summary = "TODO: one-line summary of your gem"
+  s.summary = "jpstock-crawler"
 
   if s.respond_to? :specification_version then
     s.specification_version = 3
