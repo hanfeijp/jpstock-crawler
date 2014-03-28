@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "jpstock-crawler"
   gem.homepage = "http://github.com/kenkiti/jpstock-crawler"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{jpstock-crawler}
+  gem.description = %Q{株価情報を取得してあれこれするライブラリ}
   gem.email = "kenkiti@gmail.com"
   gem.authors = ["Tadashi Inoue"]
   # dependencies defined in Gemfile
